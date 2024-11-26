@@ -14763,8 +14763,8 @@ ajQ:function ajQ(a){this.a=a},
 alC:function alC(a){this.a=a},
 akW:function akW(){},
 Eb:function Eb(){},
-aGr(a,b,c,d,e,f,g,h,i,j){var s=null,r=b.a.a
-return new A.zS(b,s,new A.acq(c,h,s,e,g,s,j,s,B.bi,s,s,B.N0,!0,s,s,!1,s,"\u2022",!1,!0,s,s,!1,s,1,s,!1,s,s,!1,s,s,i,f,s,s,2,s,s,s,s,B.D3,s,s,s,s,s,s,s,!0,s,A.aLT(),s,s,s,s,s,B.dE,B.cd,B.av,s,B.au,!0,!0),r,!0,B.yU,s,s)},
+aGr(a,b,c,d,e,f,g,h,i,j,k){var s=null,r=c.a.a
+return new A.zS(c,s,new A.acq(d,i,s,f,h,s,k,s,B.bi,s,s,B.N0,!0,s,s,!1,s,"\u2022",!1,!1,s,s,!1,s,1,s,!1,s,s,!1,s,s,j,g,s,s,2,s,s,s,s,B.D3,s,s,s,s,s,s,s,!0,s,A.aLT(),s,s,s,s,s,B.dE,B.cd,B.av,s,B.au,!0,!0),r,!0,B.yU,s,s)},
 aGs(a,b){return A.aAQ(b)},
 zS:function zS(a,b,c,d,e,f,g,h){var _=this
 _.z=a
@@ -19903,7 +19903,7 @@ this.c=c},
 a03:function a03(a,b,c){this.a=a
 this.b=b
 this.c=c},
-aut(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p){return new A.acx(p,i,l,!1,!0,c,m,n,!1,f,h,o,j,!0,a,!1)},
+aut(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p){return new A.acx(p,i,l,!1,!1,c,m,n,!1,f,h,o,j,!0,a,!1)},
 aJP(a){var s
 $label0$0:{if("TextAffinity.downstream"===a){s=B.i
 break $label0$0}if("TextAffinity.upstream"===a){s=B.Z
@@ -54396,7 +54396,7 @@ r.geU().cz(0,B.ca,r.gms())
 r.geU().T(0,r.gLt())},
 gkP(){this.a.toString
 var s=this.y.gI().gkP()
-return A.aut(s.ay,!0,B.lc,!1,!0,s.y,!1,s.Q,s.b,s.at,!1,s.c,s.r,s.w,s.as,s.a)},
+return A.aut(s.ay,!1,B.lc,!1,!0,s.y,!1,s.Q,s.b,s.at,!1,s.c,s.r,s.w,s.as,s.a)},
 P(e0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5=this,d6=null,d7={},d8=A.a4(e0),d9=e0.aw(t.Uf)
 if(d9==null)d9=B.dS
 s=A.cv(d5.a.y,d5.geU().a,t.p8)
@@ -54544,7 +54544,7 @@ if(t.qY.b(b5))d2=B.yi
 else d2=B.QY
 if(b1===1){q=A.b([$.axO()],q)
 B.b.O(q,p)}else q=p
-d9=A.Ag(d9,new A.qp(m,l,a8,!1,!1,d2,a0,!0,!0,a9,b0,!1,n,a1,a5,a6,a7,a4,e,b,B.dR,b1,k,!1,!0,b2,b5,a2,a3,b6,b7,b8,b9,d5.gaa4(),d5.ga4B(),c0,q,B.bW,!0,c1,c2,g,h,c,a,c3,c4,r.a,c5,b4,c6,c7,c8,!0,d5,c9,"editable",!0,d0,b3,j,d1,d5.y))
+d9=A.Ag(d9,new A.qp(m,l,a8,!1,!1,d2,a0,!0,!1,a9,b0,!1,n,a1,a5,a6,a7,a4,e,b,B.dR,b1,k,!1,!0,b2,b5,a2,a3,b6,b7,b8,b9,d5.gaa4(),d5.ga4B(),c0,q,B.bW,!0,c1,c2,g,h,c,a,c3,c4,r.a,c5,b4,c6,c7,c8,!0,d5,c9,"editable",!0,d0,b3,j,d1,d5.y))
 d5.a.toString
 d3=A.pL(new A.pj(A.b([l,m],t.Eo)),new A.ajX(d5,l,m),new A.j0(d9,d6))
 d5.a.toString
@@ -65982,7 +65982,7 @@ q.n(0,"viewId",s.a)
 q.n(0,"inputType",s.b.i9())
 q.n(0,"readOnly",s.c)
 q.n(0,"obscureText",!1)
-q.n(0,"autocorrect",!0)
+q.n(0,"autocorrect",!1)
 q.n(0,"smartDashesType",B.h.k(s.r.a))
 q.n(0,"smartQuotesType",B.h.k(s.w.a))
 q.n(0,"enableSuggestions",!1)
@@ -68724,7 +68724,7 @@ p=o.j(0,B.yc)?B.ya:B.yb
 j=h.a
 i=j.dy
 j=j.aq
-return A.aut(B.ec,!0,r,!1,!0,k,!1,p,o,j,!1,n,m,l,i,q)},
+return A.aut(B.ec,!1,r,!1,!0,k,!1,p,o,j,!1,n,m,l,i,q)},
 Ve(a,b){this.ap(new A.a_7(this,a,b))},
 a9f(a){var s=this,r=s.a
 if(r.K)if(r.d.gbC())if(t.qY.b(s.a.p2))r=s.gwZ()
@@ -80952,7 +80952,7 @@ if(s.gl(0)===B.dX)r="assets/image/wroipt_mamekichi.png"
 else if(s.gl(0)===B.dW)r="assets/image/wroans_mamekichi.png"
 else r=s.gl(0)===B.dV?"assets/image/correct_mamekichi.png":"assets/image/normal_mamekichi.png"}s=A.FW(A.wQ(r,B.cP,200,200))
 q=t.E
-l=A.a9M(A.b([A.mf(A.aGr(!0,l.e,B.DQ,!1,l.f,A.b([new A.wl(A.hk("[a-zA-Z0-9@.]",!0,!1),!0,"")],t.VS),B.Nh,new A.a8e(l),new A.a8f(l),B.P8),n,500)],q),B.b_,B.cx,B.bt)
+l=A.a9M(A.b([A.mf(A.aGr(!1,!0,l.e,B.DQ,!1,l.f,A.b([new A.wl(A.hk("[a-zA-Z0-9@.]",!0,!1),!0,"")],t.VS),B.Nh,new A.a8e(l),new A.a8f(l),B.P8),n,500)],q),B.b_,B.cx,B.bt)
 p=A.Fp(12)
 if(j.gu(0)===0)o=""
 else{o=k.ch.gl(0)
