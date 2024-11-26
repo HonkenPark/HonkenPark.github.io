@@ -80889,10 +80889,10 @@ l=new A.JR(l,k,new A.LG(B.y8,$.au()),A.anH(!0,n,!0,!0,n,n,!1),n)}else{k=l.ay
 r=k.gl(0)===0?100:60
 r=A.lw(n,A.FW(A.wT("assets/image/normal_mamekichi.png",B.cQ,k.gl(0)===0?100:60,r)),B.av,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.a1N(l),n,n,n)
 q=k.gl(0)===1?100:60
-q=A.lw(n,A.FW(A.wT("assets/image/normal_june.png",B.cQ,k.gl(0)===1?100:60,q)),B.av,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.a1O(l),n,n,n)
+q=A.lw(n,A.FW(A.wT("assets/image/normal_sizue.png",B.cQ,k.gl(0)===1?100:60,q)),B.av,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.a1O(l),n,n,n)
 p=k.gl(0)===2?100:60
 o=t.E
-o=A.nd(A.nh(A.b([A.nh(A.b([B.R5,new A.dD(B.D4,A.a9N(A.b([r,B.xW,q,B.xW,A.lw(n,A.FW(A.wT("assets/image/normal_sizue.png",B.cQ,k.gl(0)===2?100:60,p)),B.av,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.a1P(l),n,n,n)],o),B.b_,B.cy,B.bt),n)],o),B.b_,B.d2,B.bt),A.as8(B.R6,new A.a1Q(l),A.vf(n,n,n,B.T0,n,n,B.T1,n,n,n,n,n,n,n,n,n,n,new A.bt(new A.cl(A.pT(40),B.p),t._o),n,n,n,n,n,n))],o),B.b_,B.cy,B.bt),n,n)
+o=A.nd(A.nh(A.b([A.nh(A.b([B.R5,new A.dD(B.D4,A.a9N(A.b([r,B.xW,q,B.xW,A.lw(n,A.FW(A.wT("assets/image/normal_june.png",B.cQ,k.gl(0)===2?100:60,p)),B.av,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.a1P(l),n,n,n)],o),B.b_,B.cy,B.bt),n)],o),B.b_,B.d2,B.bt),A.as8(B.R6,new A.a1Q(l),A.vf(n,n,n,B.T0,n,n,B.T1,n,n,n,n,n,n,n,n,n,n,new A.bt(new A.cl(A.pT(40),B.p),t._o),n,n,n,n,n,n))],o),B.b_,B.cy,B.bt),n,n)
 l=o}k=t.E
 return new A.oM(A.rR(B.dy,A.b([m,A.nh(A.b([new A.uX(s,0,B.z,new A.Rl(n,n,1/0,56),n),new A.He(1,B.my,l,n)],k),B.b_,B.d2,B.bt)],k),B.au,B.di),B.z,n)},
 $S:467}
