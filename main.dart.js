@@ -80820,13 +80820,15 @@ q.cx.sl(0,p)
 return A.F(null,r)}})
 return A.G($async$yi,r)},
 G1(a){return this.agO(a)},
-agO(a){var s=0,r=A.H(t.H),q=this,p,o
+agO(a){var s=0,r=A.H(t.H),q=this,p,o,n
 var $async$G1=A.I(function(b,c){if(b===1)return A.E(c,r)
-while(true)switch(s){case 0:p=q.ch.gl(0)
-o=J.aqR(J.aW(J.aW(q.cx.gl(0),p),"word"))
-if(a!==o){p=q.cy
-if(B.d.d_(o,a))p.sl(0,B.iN)
-else p.sl(0,B.dX)}return A.F(null,r)}})
+while(true)switch(s){case 0:o=q.ch.gl(0)
+n=J.aqR(J.aW(J.aW(q.cx.gl(0),o),"word"))
+o=B.d.d_(n,a)||a===n
+p=q.cy
+if(o)p.sl(0,B.iN)
+else p.sl(0,B.dX)
+return A.F(null,r)}})
 return A.G($async$G1,r)},
 ru(a){return this.acc(a)},
 acc(a){var s=0,r=A.H(t.H),q=this,p,o,n,m
