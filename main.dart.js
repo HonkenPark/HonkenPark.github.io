@@ -84212,7 +84212,7 @@ $S:490}
 A.aah.prototype={
 $0(){var s,r,q,p,o,n,m,l,k,j=null,i="descriptions",h=this.a,g=h.c,f=g.cx
 if(!f.ga0(f)&&g.ch.gl(0)>=J.bP(f.gl(0))){h=this.b
-g=A.fv("\ud034\uc988\uac00 \ub05d\ub0ac\uc2b5\ub2c8\ub2e4. \ucc38 \uc798\ud588\uc5b4\uc694 \ud83e\udd70\n\uc544\ube60\uc5d0\uac8c \ub9cc\uc138\ub97c \ud574\ub2ec\ub77c\uace0 \ud558\uc138\uc694 !!",j,j,j,A.ez(j,j,B.tl,j,j,j,j,j,j,j,j,A.b6(h).e||A.b6(h).f?18:48,j,j,B.d2,j,j,!0,j,j,j,j,j,j,j,j),B.hN,j)
+g=A.fv("\ud034\uc988\uac00 \ub05d\ub0ac\uc2b5\ub2c8\ub2e4. \ucc38 \uc798\ud588\uc5b4\uc694 \ud83e\udd70\n\uc5c4\ub9c8\uc5d0\uac8c \ub85c\ube14\ub85d\uc2a4\ub97c \ud574\ub2ec\ub77c\uace0 \ud558\uc138\uc694 !!",j,j,j,A.ez(j,j,B.tl,j,j,j,j,j,j,j,j,A.b6(h).e||A.b6(h).f?18:48,j,j,B.d2,j,j,!0,j,j,j,j,j,j,j,j),B.hN,j)
 f=A.iu(j,A.b6(h).e||A.b6(h).f?20:80,j)
 s=A.b6(h).e||A.b6(h).f?150:300
 s=A.nI(A.lY("assets/image/finish_tanukichi.png",B.bM,A.b6(h).e||A.b6(h).f?150:300,s))
