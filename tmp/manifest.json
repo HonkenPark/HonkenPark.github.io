@@ -1,6 +1,6 @@
 {
-    "name": "Honken's Github Repository",
-    "short_name": "Honken's Github Repository",
+    "name": "honken_portfolio",
+    "short_name": "honken_portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
