@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,7738,e=>{"use strict";var t=e.i(43476),r=e.i(63178);e.s(["ThemeProvider",0,function({children:e}){return(0,t.jsx)(r.ThemeProvider,{attribute:"class",defaultTheme:"dark",enableSystem:!1,storageKey:"theme",disableTransitionOnChange:!1,children:e})}])}]);
